@@ -168,3 +168,9 @@ a:active {
 
 ## 1.4 简写属性
 
+**简写属性**是用于同时给多个属性赋值的属性。例如：
+
+- **font:** 可以用于设置多种字体属性，它指定了font-style、font-weight、font-size、font-height、font-family
+
+- **background**: background-color、background-image、background-size、background-repeat、background-position、background-chip、background-attachment
+- **border**: 
